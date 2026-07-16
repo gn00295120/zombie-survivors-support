@@ -1,11 +1,11 @@
 ---
-title: Last Outpost Support
+title: Last Outpost Graveguard Support
 permalink: /last-outpost/
 ---
 
-# Last Outpost — Support
+# Last Outpost: Graveguard — Support
 
-**Last Outpost** is an offline, single-player chibi fantasy tower-defense game for
+**Last Outpost: Graveguard** is an offline, single-player chibi fantasy tower-defense game for
 iPhone and iPad.
 
 ## Contact
