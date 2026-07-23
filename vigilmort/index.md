@@ -1,11 +1,11 @@
 ---
-title: Last Outpost Graveguard Support
-permalink: /last-outpost/
+title: Vigilmort Support
+permalink: /vigilmort/
 ---
 
-# Last Outpost: Graveguard — Support
+# Vigilmort — Support
 
-**Last Outpost: Graveguard** is an offline, single-player chibi fantasy tower-defense game for
+**Vigilmort** is an offline, single-player chibi fantasy tower-defense game for
 iPhone and iPad.
 
 ## Contact

@@ -1,13 +1,13 @@
 ---
-title: Last Outpost Graveguard Privacy Policy
-permalink: /last-outpost/privacy
+title: Vigilmort Privacy Policy
+permalink: /vigilmort/privacy
 ---
 
-# Last Outpost: Graveguard — Privacy Policy
+# Vigilmort — Privacy Policy
 
-_Last updated: July 16, 2026_
+_Last updated: July 24, 2026_
 
-**Last Outpost: Graveguard** ("the app") is an offline, single-player game published by Lucas
+**Vigilmort** ("the app") is an offline, single-player game published by Lucas
 Futures.
 
 ## Data collection
@@ -38,4 +38,4 @@ Any future change to this policy will be posted at this URL with an updated date
 
 hackerone.lucasfutures@gmail.com
 
-[Back to Last Outpost: Graveguard Support](./)
+[Back to Vigilmort Support](./)
